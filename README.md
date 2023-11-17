@@ -3,7 +3,7 @@
 
 <img align="right" style="padding-left:10px" alt="coding" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jishan1019&label=Profile%20views&color=0e75b6&style=flat" alt="jishan1019" /> </p>
+<p align="left"> <img style="width: 75%" src="https://komarev.com/ghpvc/?username=jishan1019&label=Profile%20views&color=0e75b6&style=flat" alt="jishan1019" /> </p>
 
 - 🌱 I’m currently learning mongoose. **Appolo L2**
 
