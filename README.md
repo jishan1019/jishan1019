@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md.Jishan Hossain</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-<img align="right" style="max-width: 75%" alt="coding" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=jishan1019&label=Profile%20views&color=0e75b6&style=flat" alt="jishan1019" /> </p>
 
