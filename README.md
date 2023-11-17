@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Md.Jishan Hossain</h1>
+![image](https://github.com/jishan1019/jishan1019/assets/121633881/6d1d5889-dd14-4526-885a-eaa1c9f9b77b)<h1 align="center">Hi 👋, I'm Md.Jishan Hossain</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-<div style="max-width: 75%; float: right;">
-  <img alt="coding" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
+<img align="right"  alt="coding" src="![image](https://github.com/jishan1019/jishan1019/assets/121633881/1ed5a616-b955-45ad-9228-6a58923bf39c)
+">
 
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=jishan1019&label=Profile%20views&color=0e75b6&style=flat" alt="jishan1019" /> </p>
