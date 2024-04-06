@@ -1,6 +1,6 @@
 ![logo](https://github.com/jishan1019/jishan1019/blob/main/MD%20JISHAN%20HOSSAIN%20COVER.png)
 <h1 align="center">Hi 👋, I'm Md.Jishan Hossain</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -12,13 +12,13 @@
 
 - 📝 I regularly upload tech videos on [https://www.youtube.com/@teachstudio1167](https://www.youtube.com/@teachstudio1167)
 
-- 💬 Ask me about **React,Javascript,Web and Apps.**
+- 💬 Ask me about **React,Next,Redux,Express,Mongoose,Javascript.Typescript,Java,Web and Apps.**
 
 - 📫 How to reach me **imranislamjishan200@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YNRzyTYLWl0Ub0JEnYd4ta-476lomRQ9/view?usp=sharing](https://drive.google.com/file/d/1YNRzyTYLWl0Ub0JEnYd4ta-476lomRQ9/view?usp=sharing)
 
-- ⚡ Fun fact **I am funny and quick learner.**
+- ⚡ Fun fact: **I am funny and quick learner, always exploring new technologies and applying them to real-life problem-solving.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
