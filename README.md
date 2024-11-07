@@ -12,7 +12,7 @@
 
 - 📝 I regularly upload tech videos on [https://www.youtube.com/@teachstudio1167](https://www.youtube.com/@teachstudio1167)
 
-- 💬 Ask me about **React,Next,Redux,Express,Mongoose,PostgreSQL,Prisma,GrapQL,Javascript.Typescript,Java,Web and Apps.**
+- 💬 Ask me about **React,Next,Redux,Express,Mongoose,PostgreSQL,Prisma,GraphQL,Javascript.Typescript,Java,Web and Apps.**
 
 - 📫 How to reach me **imranislamjishan200@gmail.com**
 
