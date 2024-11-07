@@ -6,13 +6,13 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=jishan1019&label=Profile%20views&color=0e75b6&style=flat" alt="jishan1019" /> </p>
 
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning PostgreSql and Prisma.
 
 - 👨‍💻 All of my projects are available at [https://sage-bubblegum-1e0722.netlify.app/](https://sage-bubblegum-1e0722.netlify.app/)
 
 - 📝 I regularly upload tech videos on [https://www.youtube.com/@teachstudio1167](https://www.youtube.com/@teachstudio1167)
 
-- 💬 Ask me about **React,Next,Redux,Express,Mongoose,Javascript.Typescript,Java,Web and Apps.**
+- 💬 Ask me about **React,Next,Redux,Express,Mongoose,PostgreSQL,Prisma,GrapQL,Javascript.Typescript,Java,Web and Apps.**
 
 - 📫 How to reach me **imranislamjishan200@gmail.com**
 
