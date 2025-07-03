@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning PostgreSql and Prisma.
 
-- 👨‍💻 All of my projects are available at [https://sage-bubblegum-1e0722.netlify.app/](https://sage-bubblegum-1e0722.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jishanhossain.netlify.app/](https://jishanhossain.netlify.app/)
 
 - 📝 I regularly upload tech videos on [https://www.youtube.com/@teachstudio1167](https://www.youtube.com/@teachstudio1167)
 
