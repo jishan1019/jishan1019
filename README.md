@@ -1,4 +1,4 @@
-![logo](https://github.com/jishan1019/jishan1019/blob/main/MD%20JISHAN%20HOSSAIN.png)
+![logo](https://github.com/jishan1019/jishan1019/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Md.Jishan Hossain</h1>
 <h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=jishan1019&label=Profile%20views&color=0e75b6&style=flat" alt="jishan1019" /> </p>
 
-- 🌱 I’m currently learning PostgreSql and Prisma.
+- 🌱 I’m currently learning python.
 
 - 👨‍💻 All of my projects are available at [https://jishanhossain.netlify.app/](https://jishanhossain.netlify.app/)
 
