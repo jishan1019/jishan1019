@@ -6,7 +6,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=jishan1019&label=Profile%20views&color=0e75b6&style=flat" alt="jishan1019" /> </p>
 
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Golang.
 
 - 👨‍💻 All of my projects are available at [https://jishanhossain.netlify.app/](https://jishanhossain.netlify.app/)
 
