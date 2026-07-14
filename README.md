@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Golang.
 
-- 👨‍💻 All of my projects are available at [https://jishanhossain.netlify.app/](https://jishanhossain.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jishanhossain.netlify.app/](https://jishanhossain.vercel.app/)
 
 - 📝 I regularly upload tech videos on [https://www.youtube.com/@teachstudio1167](https://www.youtube.com/@teachstudio1167)
 
